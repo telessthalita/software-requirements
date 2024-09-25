@@ -37,9 +37,9 @@ Acreditamos que uma coleta de requisitos eficaz é fundamental para o sucesso de
 
 ## Documentos de Coleta de Requisitos
 
-- [Documento de Coleta de Requisitos](./requirements-collection/requirements-collection-document.md): Guia para coletar e documentar requisitos de software de forma estruturada.
+- [Documento de Coleta de Requisitos](./requirements-collection-document.md): Guia para coletar e documentar requisitos de software de forma estruturada.
   
-- [Questionário para Coleta de Requisitos - Stakeholders](./stakeholders-questionnaire/stakeholders-requirements-questionnaire.md): Questionário projetado para coletar informações diretamente dos stakeholders.
+- [Questionário para Coleta de Requisitos - Stakeholders](./stakeholders-requirements-questionnaire.md): Questionário projetado para coletar informações diretamente dos stakeholders.
 
 
 ---
