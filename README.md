@@ -43,15 +43,4 @@ Acreditamos que uma coleta de requisitos eficaz é fundamental para o sucesso de
 
 
 ---
-
-## Contribuição
-
-Sinta-se à vontade para contribuir com este repositório. Se você tiver dicas, técnicas ou documentos adicionais que possam ajudar na coleta de requisitos, adicione-os ou abra uma pull request.
-
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
-
----
-
-**Obrigado por visitar! Esperamos que este repositório seja útil para o seu aprendizado e prática em Engenharia de Software.**
+🎉 Obrigado por visitar! Espero que este repositório acenda sua curiosidade e ajude no seu aprendizado em Engenharia de Software. 🚀💻
